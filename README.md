@@ -1,8 +1,8 @@
 ### Hi, I'm George Júnior 🖐️
 
-[![blog](https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://georgejrdev.github.io/Portfolio)
+[![blog](https://img.shields.io/badge/Portfolio-0DBD8B?style=for-the-badge&logo=About.me&logoColor=white)](https://georgejrdev.github.io/Portfolio/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/george-j%C3%BAnior-b26776268)
+)](https://www.linkedin.com/in/georgejrdev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgejrdev&layout=compact&theme=dracula&hide=css,jupyter%20notebook,html,hack,Dockerfile)
 
